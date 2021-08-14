@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AppPrint",
+    "slug": "AppPrint",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AppPrint"
+}
